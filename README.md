@@ -1,1 +1,1 @@
-# This is a simple css + js clock.
+# This is a simple css + JS clock.
